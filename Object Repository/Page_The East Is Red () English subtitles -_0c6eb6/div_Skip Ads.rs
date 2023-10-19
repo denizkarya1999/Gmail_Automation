@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Skip Ads</name>
+   <tag></tag>
+   <elementGuidId>482622ba-9477-4f04-998a-8bbc936be562</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ad-text:6']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02765426-d554-48b7-b798-0745d23da68b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-ad-text ytp-ad-skip-button-text</value>
+      <webElementGuid>474bd95b-fdc2-466e-a599-1d47271c6bbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ad-text:6</value>
+      <webElementGuid>4146ad1e-c639-49e8-b0f5-690078ff0476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Skip Ads</value>
+      <webElementGuid>8b908cf5-0054-45fa-9398-70e49fd31670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ad-text:6&quot;)</value>
+      <webElementGuid>a6c37da2-c5cd-4435-b2a4-a31a756741ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='ad-text:6']</value>
+      <webElementGuid>05565fec-ae9f-4c94-b89f-7a799bbf6313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skip-button:5']/span/button/div</value>
+      <webElementGuid>8ac2bcef-407d-4c67-ba4a-53d2acc0b5e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ivaccinate.org/'])[1]/following::div[6]</value>
+      <webElementGuid>c3be2782-ca03-48bb-acd6-82039b23a1c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Ad Center'])[1]/following::div[6]</value>
+      <webElementGuid>239effa1-2091-4d2f-a0f6-4efb10773773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diseases like measles and whooping cough can spread rapidly too...'])[1]/preceding::div[3]</value>
+      <webElementGuid>7512a8af-8711-4217-8b2c-7dc746f50edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[2]/preceding::div[10]</value>
+      <webElementGuid>a3291050-5432-4b6e-8f76-bdd4b7366cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Skip Ads']/parent::*</value>
+      <webElementGuid>7e69fa12-1095-4943-9a9d-4b1fac32bd1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button/div</value>
+      <webElementGuid>902303ab-213e-4797-a45d-16ba74d3c023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'ad-text:6' and (text() = 'Skip Ads' or . = 'Skip Ads')]</value>
+      <webElementGuid>1856865e-4b00-4f49-917b-788d5d553b28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

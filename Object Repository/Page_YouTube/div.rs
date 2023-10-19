@@ -6,12 +6,12 @@
    <elementGuidId>b0dc0607-8073-474b-94de-79ebbc734669</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#search-icon-legacy > yt-icon.style-scope.ytd-searchbox > yt-icon-shape.style-scope.yt-icon > icon-shape.yt-spec-icon-shape > div</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='search-icon-legacy']/yt-icon/yt-icon-shape/icon-shape/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#search-icon-legacy > yt-icon.style-scope.ytd-searchbox > yt-icon-shape.style-scope.yt-icon > icon-shape.yt-spec-icon-shape > div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c002aec3-fe87-4dab-b0fb-7061e347c29d</webElementGuid>
+      <webElementGuid>0752fd7d-13c2-4c78-b117-2540ba9e1aac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search-icon-legacy&quot;)/yt-icon[@class=&quot;style-scope ytd-searchbox&quot;]/yt-icon-shape[@class=&quot;style-scope yt-icon&quot;]/icon-shape[@class=&quot;yt-spec-icon-shape&quot;]/div[1]</value>
-      <webElementGuid>8fc0a405-cdbd-4883-8542-8980acba9ff9</webElementGuid>
+      <webElementGuid>434dd7ad-c612-4678-9a78-8008bac7b60d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='search-icon-legacy']/yt-icon/yt-icon-shape/icon-shape/div</value>
-      <webElementGuid>c0807ff1-0050-4547-b9d4-e6a8a8bbc157</webElementGuid>
+      <webElementGuid>21f175bd-03f7-4da4-801a-aedb22943b71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip navigation'])[1]/following::div[15]</value>
-      <webElementGuid>8fda0923-49ad-4a49-8acd-0c211179b402</webElementGuid>
+      <webElementGuid>5ff12c6c-d32f-4d78-bba8-fca3d81af06c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[23]</value>
-      <webElementGuid>9721f53f-b1dc-4804-bd29-a436d4b8a31f</webElementGuid>
+      <webElementGuid>bf59889b-cabe-4a55-819a-a309c775da02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::div[2]</value>
-      <webElementGuid>6181ce4c-ae33-464f-8e42-0eaa4096d789</webElementGuid>
+      <webElementGuid>07e5cabd-f553-421a-9904-5c028788fab2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ytd-searchbox/button/yt-icon/yt-icon-shape/icon-shape/div</value>
-      <webElementGuid>f40e1645-9f48-44a3-a21d-1a305696dd3b</webElementGuid>
+      <webElementGuid>0044c1ed-6b6f-49d4-95bb-c7aa62bebc6c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

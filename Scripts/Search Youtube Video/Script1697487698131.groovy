@@ -21,13 +21,29 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.youtube.com/')
 
-WebUI.setText(findTestObject('Object Repository/Page_YouTube/input_Skip navigation_search_query'), 'red sun in the sky')
+WebUI.setText(findTestObject('Object Repository/Page_YouTube/input_Skip navigation_search_query'), 'Chinese national anthem')
 
 WebUI.click(findTestObject('Object Repository/Page_YouTube/div'))
 
-WebUI.click(findTestObject('Object Repository/Page_red sun in the sky - YouTube/yt-formatted-string_mao zedong propaganda m_c6b5e0'))
+WebUI.click(findTestObject('Object Repository/Page_Chinese national anthem - YouTube/yt-formatted-string_China National anthem C_3bc6de'))
 
-WebUI.delay(35)
+WebUI.delay(20)
+
+WebUI.setText(findTestObject('Object Repository/Page_YouTube/input_Skip navigation_search_query'), 'without ccp no new china')
+
+WebUI.click(findTestObject('Object Repository/Page_YouTube/div'))
+
+WebUI.click(findTestObject('Object Repository/Page_without ccp no new china - YouTube/yt-formatted-string_Chinese Communist Song _199447'))
+
+WebUI.delay(30)
+
+WebUI.setText(findTestObject('Object Repository/Page_YouTube/input_Skip navigation_search_query'), 'east is red')
+
+WebUI.click(findTestObject('Object Repository/Page_YouTube/div'))
+
+WebUI.click(findTestObject('Object Repository/Page_east is red - YouTube/yt-formatted-string_The East Is Red () Engl_9af7c0'))
+
+WebUI.delay(20)
 
 WebUI.closeBrowser()
 
